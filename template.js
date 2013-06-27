@@ -1,0 +1,1 @@
+module.exports = '\n<div class="todo-list">\n  <div ng-repeat="todo in todos" data-todo="todo" class="todo"></div>\n</div>';

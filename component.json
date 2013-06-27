@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "repo": "familyfound/todo-list",
+  "description": "Todo list angular component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "familyfound/ffapi": "*",
+    "jabapyth/angularjs": "*",
+    "familyfound/todo": "*"
+  },
+  "development": {
+    "familyfound/domlog": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "todo-list.css"
+  ]
+}
