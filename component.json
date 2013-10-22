@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "familyfound/ffapi": "*",
-    "jabapyth/angularjs": "*",
+    "jaredly/angularjs": "*",
     "familyfound/todo": "*"
   },
   "development": {
